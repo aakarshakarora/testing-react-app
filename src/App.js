@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+/* istanbul ignore file */
+
 import './App.css';
 import Todo from "./component/todo";
 
