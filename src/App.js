@@ -13,6 +13,7 @@ function App() {
         },
         {
             id: 2,
+
             title: 'play',
             status: false
         }

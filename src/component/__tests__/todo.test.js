@@ -7,6 +7,7 @@ test('Should Render todo component', () => {
         id: 1,
         title: 'study',
         status: true
+
     };
     render(<Todo todo={todo}/>)
     const toDoElement = screen.getByTestId('todo-1');
